@@ -1,0 +1,8 @@
+Wat heb ik geleerd?
+
+Ik heb geleerd hoe ik in de online methode van GitHub een repository aan maak en mensen eraan kan toevoegen. Ik heb geleerd hoe ik branches kan aanmaken een daar bestandjes in kan pushen en pullen. En ik heb geleerd hoe er conflicten kunnen ontstaan binnen GitHub en hoe je ze kan oplossen.
+
+Wat wil ik nog leren?
+
+Ik wil nog leren hoe ik mogelijke fouten kan voorkomen, hoe je kan werken in hetzelfde bestand zonder dat het fout gaat. En hoe je fouten het makkelijkste kan oplossen
+
