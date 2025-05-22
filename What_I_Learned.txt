@@ -1,0 +1,5 @@
+wat heb ik geleerd:
+ik heb geleerd hoe ik een repository aanmaak en mensen kan toevoegen aan deze repository. Het is ook belangrijk om een README file te hebben anders krijg je daar later veel problemen mee. Als je bijvoorbeeld je veranderingen gaat pushen komen er allemaal anderen dingen ook mee wat je niet elke keer wilt mee pushen.
+
+wat wil ik nog leren:
+ik wil nog meer leren over merge conflicts bijvoorbeeld hoe je die makkelijk kunt oplossen en voorkomen. 
